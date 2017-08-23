@@ -5,7 +5,7 @@ front end repo for travellers website
 npm install npm@latest -g
 
 # commands used for front end set up
-npm install -g babel 
+npm install -g babel <br>
 npm install -g babel-cli 
 npm init 
 npm install webpack --save 
