@@ -1,0 +1,26 @@
+{
+  "name": "travellersfe",
+  "version": "1.0.0",
+  "description": "front end repo for travellers website",
+  "main": "index.js",
+  "scripts": {
+   "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauminkirve/travellersfe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauminkirve/travellersfe/issues"
+  },
+  "homepage": "https://github.com/sauminkirve/travellersfe#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
